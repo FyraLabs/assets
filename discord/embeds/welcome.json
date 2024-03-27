@@ -1,0 +1,31 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Welcome!",
+      "description": "We're Fyra Labs, an open-source technology startup and community, behind Ultramarine Linux and other products. Please be sure to read view <#957433951478243348> and say hello in <#957432873701503047>. Some important links are listed below.",
+      "color": 11095551,
+      "fields": [
+        {
+          "name": "Homepage",
+          "value": "https://fyralabs.com/"
+        },
+        {
+          "name": "Ultramarine Linux",
+          "value": "https://ultramarine-linux.org"
+        },
+        {
+          "name": "Support",
+          "value": "<#1207435819535695902>"
+        },
+        {
+          "name": "Developer Portal",
+          "value": "https://developer.fyralabs.com"
+        }
+      ]
+    }
+  ],
+  "username": "Raboneko",
+  "avatar_url": "https://raw.githubusercontent.com/FyraLabs/homepage/main/src/assets/people/raboneko.webp",
+  "attachments": []
+}
